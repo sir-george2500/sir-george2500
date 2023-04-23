@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **Data Science with Python and R**
 
-- 👯 I’m looking to collaborate on [this Studio Creator](https://github.com/sir-george2500/Studio)
+- 👯 I’m looking to collaborate on [this Studio Creator](https://github.com/sig/Studio)
 
-- 🤝 I’m looking for help with [this Studio Project](https://github.com/sir-george2500/Studio)
+- 🤝 I’m looking for help with [this Studio Project](https://github.com/George-S-Mulbah/Studio)
 
 - 📝 I regularly write articles on [https://www.facebook.com/cleverengineer1](https://www.facebook.com/cleverengineer1)
 
