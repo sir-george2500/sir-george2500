@@ -5,19 +5,19 @@
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a passionate FullStack Developer and Mathematician From Liberia</h3>
 <enter><img   width=600 height=400   alt="Coding" src="https://hackernoon.com/hn-images/1*6XX4DHE0HSHrGjiLFxmigQ.gif" /></center>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=george-s-mulbah&label=Profile%20views&color=0e75b6&style=flat" alt="george-s-mulbah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-george2500&label=Profile%20views&color=0e75b6&style=flat" alt="sir-george2500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=george-s-mulbah" alt="george-s-mulbah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-george2500" alt="George S Mulbah" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@sirgeorge2500" target="blank"><img src="https://img.shields.io/twitter/follow/@sirgeorge2500?logo=twitter&style=for-the-badge" alt="@sirgeorge2500" /></a> </p>
 
-- 🔭 I’m currently working on [Musical App](https://github.com/George-S-Mulbah/Soundnix)
+- 🔭 I’m currently working on [Musical App](https://github.com/sir-george2500/Soundnix)
 
 - 🌱 I’m currently learning **Data Science with Python and R**
 
-- 👯 I’m looking to collaborate on [this Studio Creator](https://github.com/George-S-Mulbah/Studio)
+- 👯 I’m looking to collaborate on [this Studio Creator](https://github.com/sir-george2500/Studio)
 
-- 🤝 I’m looking for help with [this Studio Project](https://github.com/George-S-Mulbah/Studio)
+- 🤝 I’m looking for help with [this Studio Project](https://github.com/sir-george2500/Studio)
 
 - 📝 I regularly write articles on [https://www.facebook.com/cleverengineer1](https://www.facebook.com/cleverengineer1)
 
