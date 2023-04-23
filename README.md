@@ -44,4 +44,5 @@
 <br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true&locale=en" alt="george-s-mulbah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sir-geroge2500&" alt="george-s-mulbah" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sir-geroge2500&" alt="george-s-mulbah" /></p>
+ -->
