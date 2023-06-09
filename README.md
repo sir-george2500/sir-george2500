@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*U3WRRwLx3zeDkHmIVGLJdw.gif)]
+[![MasterHead](https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_423_752/0/1574956586380?e=1691625600&v=beta&t=MVUC4LcvFkgDm9q-LQyasKTa7RBkXvRyfuXOxyoAC24)]
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
