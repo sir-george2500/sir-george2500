@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_423_752/0/1574956586380?e=1691625600&v=beta&t=MVUC4LcvFkgDm9q-LQyasKTa7RBkXvRyfuXOxyoAC24)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw3RxKdzjMlBc6Y81Xnhnlqv&ust=1686403186495000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCpxsmjtv8CFQAAAAAdAAAAABAE)]
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
