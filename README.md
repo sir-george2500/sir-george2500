@@ -1,5 +1,6 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw3RxKdzjMlBc6Y81Xnhnlqv&ust=1686403186495000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCpxsmjtv8CFQAAAAAdAAAAABAE)]
+[![MasterHead](![image](https://github.com/sir-george2500/sir-george2500/assets/51964478/346927e7-69af-4c4a-b85d-cffa4a2d2e0c)
+)]
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
