@@ -1,6 +1,5 @@
 
-[![MasterHead](![image](https://github.com/sir-george2500/sir-george2500/assets/51964478/346927e7-69af-4c4a-b85d-cffa4a2d2e0c)
-)]
+[![MasterHead](![image](https://github.com/sir-george2500/sir-george2500/assets/51964478/346927e7-69af-4c4a-b85d-cffa4a2d2e0c)]
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
