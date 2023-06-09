@@ -1,5 +1,5 @@
 
-[![MasterHead](![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F843087992728340968%2F&psig=AOvVaw2MJDLmuZ0qiC9fuJXUb6Yj&ust=1686404029181000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjnrNumtv8CFQAAAAAdAAAAABAJ)]
+[![MasterHead](![image](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)]
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
