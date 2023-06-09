@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*U3WRRwLx3zeDkHmIVGLJdw.gif)]
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
