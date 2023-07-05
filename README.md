@@ -50,6 +50,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true" />
 </picture>
-
-
-<
