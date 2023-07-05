@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats-two-eta-17.vercel.app/api/top-langs?username=sir-george2500&show_icons=true&locale=en&layout=compact" alt="george-s-mulbah" /></p>
 <br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true&locale=en" alt="george-s-mulbah" /></p>
+<p>&nbsp;<img align="center" src="github-readme-stats-two-eta-17.vercel.app/api?username=sir-george2500&show_icons=true&locale=en" alt="george-s-mulbah" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sir-geroge2500&" alt="george-s-mulbah" /></p>
  -->
