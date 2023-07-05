@@ -51,6 +51,6 @@
   <img src="https://github-readme-stats-two-eta-17.vercel.app/api?username=sir-george2500&show_icons=true" />
 </picture>
 <a href="https://github-readme-stats-two-eta-17.vercel.app">
-  <img src="https://github-readme-stats-two-eta-17.vercel.app/api/top-langs/?username=sir-george2500&layout=pie" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-george2500&layout=pie" alt="Top Langs">
 </a>
 
