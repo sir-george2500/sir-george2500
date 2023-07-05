@@ -48,9 +48,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true" />
+  <img src="https://github-readme-stats-two-eta-17.vercel.app/api?username=sir-george2500&show_icons=true" />
 </picture>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt="Top Langs">
+<a href="https://github-readme-stats-two-eta-17.vercel.app">
+  <img src="https://github-readme-stats-two-eta-17.vercel.app/api/top-langs/?username=sir-george2500&layout=pie" alt="Top Langs">
 </a>
 
