@@ -45,3 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-george2500&layout=pie" alt="Top Langs">
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+
+
