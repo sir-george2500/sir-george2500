@@ -44,7 +44,6 @@
 <a href="https://github-readme-stats-two-eta-17.vercel.app">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-george2500&layout=pie" alt="Top Langs">
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
-
+</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
