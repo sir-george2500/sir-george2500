@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/cleverengineer1](https://www.facebook.com/cleverengineer1)
 
-- 💬 Ask me about **JavaScript , React-native , Python FASTAPI , C **
+- 💬 Ask me about **JavaScript , React-native , Python FASTAPI , C**
 
 - 📫 How to reach me **gsmulbah2500@gmail.com**
 
