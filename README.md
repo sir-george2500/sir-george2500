@@ -1,5 +1,5 @@
 
-![image](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
+![image](https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_423_752/0/1574956586380?e=1698278400&v=beta&t=xgYuTV-iYoAqCfVBkL1AU3v09ir8OyVDavzvCfPBIzI)
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
