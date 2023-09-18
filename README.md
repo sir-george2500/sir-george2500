@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a passionate FullStack Developer and Mathematician From Liberia</h3>
-<h3 align="center">My github profile actually look fearful but I am a humble <br/>Guys that love to scared the shit out of oridinary people</h3>
+<h3 align="center">My github profile actually look fearful but I am a humble <br/>Guy that love to scared the shit out of oridinary people</h3>
 *
 <p align="center"> *⚠️ Warning:** also be warn I have crazy love for data Science , Cyber Security and Mathematics</p>
 <enter><img   width=600 height=400   alt="Coding" src="https://hackernoon.com/hn-images/1*6XX4DHE0HSHrGjiLFxmigQ.gif" /></center>
