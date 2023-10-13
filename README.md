@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **gsmulbah2500@gmail.com**
 
-- ⚡ Fun fact **I am Scientist and a Writer, lover of Physics, Electronics, Software Engineering**
+- ⚡ Fun fact **I am  Writer, lover of Physics, Electronics, Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
