@@ -1,4 +1,4 @@
-![image](https://media3.giphy.com/media/4ED86C9iUTY0XRAXzB/giphy.gif)
+![image](https://i.gifer.com/Gzoy.gif)
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
