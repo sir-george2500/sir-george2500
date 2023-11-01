@@ -1,5 +1,5 @@
 
-<enter><img   width=600 height=400   alt="Coding" src="https://i.gifer.com/Gzoy.gif" /></center>
+<enter><img   width=600 height=400   alt="Coding" src="https://hackernoon.com/hn-images/1*6XX4DHE0HSHrGjiLFxmigQ.gif" /></center>
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
