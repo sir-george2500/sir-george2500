@@ -1,5 +1,5 @@
 
-![image](https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_423_752/0/1574956586380?e=1698278400&v=beta&t=xgYuTV-iYoAqCfVBkL1AU3v09ir8OyVDavzvCfPBIzI)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif)
 
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
