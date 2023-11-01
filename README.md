@@ -1,5 +1,6 @@
 
-<iframe src="https://gifer.com/embed/Gzoy" width=480 height=199.024 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<enter><img   width=600 height=400   alt="Coding" src="https://github.com/sir-george2500/custome_images/blob/main/images/Gzoy.gif" /></center>
+
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a passionate FullStack Developer and Mathematician From Liberia</h3>*
