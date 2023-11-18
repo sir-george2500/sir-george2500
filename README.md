@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a passionate FullStack Developer and Mathematician From Liberia</h3>*
-<enter><img   width=600 height=400   alt="Coding" src="https://hackernoon.com/hn-images/1*6XX4DHE0HSHrGjiLFxmigQ.gif" /></center>
+<enter><img   width=600 height=400   alt="Coding" src="https://eply.gif" /></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-george2500&label=Profile%20views&color=0e75b6&style=flat" alt="sir-george2500" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-george2500" alt="George S Mulbah" /></a> </p>
