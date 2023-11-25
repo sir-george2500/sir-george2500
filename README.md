@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Musical App](https://github.com/sir-george2500/Soundnix)
 
-- 🌱 I’m currently learning **Go and docker **
+- 🌱 I’m currently learning **RUST**
 
 - 👯 I’m looking to collaborate on [this Studio Creator](https://github.com/sig/Studio)
 
