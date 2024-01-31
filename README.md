@@ -1,6 +1,3 @@
-
-<enter><img   width=600 height=400   alt="Coding" src="https://github.com/sir-george2500/custome_images/blob/main/images/Qjdd.gif" /></center>
-
 <h1 align="center">Hi 👋, I'm George S Mulbah</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a passionate FullStack Developer and Mathematician From Liberia</h3>*
