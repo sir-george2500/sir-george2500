@@ -4,7 +4,7 @@
 <enter><img   width=600 height=400   alt="Coding" src="https://github.com/sir-george2500/custome_images/blob/main/images/elpy.gif" /></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-george2500&label=Profile%20views&color=0e75b6&style=flat" alt="sir-george2500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-george2500" alt="George S Mulbah" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-george2500" alt="George S Mulbah" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/@sirgeorge2500" target="blank"><img src="https://img.shields.io/twitter/follow/@sirgeorge2500?logo=twitter&style=for-the-badge" alt="@sirgeorge2500" /></a> </p>
 
