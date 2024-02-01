@@ -2,8 +2,6 @@
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a Sotware Engineer Currently Working at SV Liberia</h3>
 
-<p align="left"> <a href="https://twitter.com/@sirgeorge2500" target="blank"><img src="https://img.shields.io/twitter/follow/@sirgeorge2500?logo=twitter&style=for-the-badge" alt="@sirgeorge2500" /></a> </p>
-
 - 🌱 I’m currently learning **RUST**
 
 - 💬 Ask me about **JavaScript , React-native , Python FASTAPI , C**
