@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
-<h3 align="center">I am a Sotware Engineer Currently Working at SV Liberia</h3>
+<h3 align="center">I am a Sotware Engineer</h3>
 
 - 🌱 I’m currently learning **RUST**
 
