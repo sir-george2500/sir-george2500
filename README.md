@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a Sotware Engineer</h3>
+<h3 align="center">Improving by 1% every day</h3>
 
 - I am a Believer of God love
 - I love C admire Python and tolerate JS mostly typescript 
