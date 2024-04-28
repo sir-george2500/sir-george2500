@@ -5,7 +5,7 @@
 <h3 align="center">Growth mindset</h3>
 
 
-- I am a Believer of God love(follower of Jesus)
+- I am a Believer of God love(devotee of Jesus)
 - I love C admire Python and tolerate JS mostly typescript 
 - 🌱 I’m currently learning **RUST**
 <img src="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
