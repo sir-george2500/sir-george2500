@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm George</h1>
+<h1 align="center">Hi 👋, I'm George S Mulbah II</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
 <h3 align="center">I am a Sotware Engineer</h3>
 <h3 align="center">Improving by 1% every day</h3>
