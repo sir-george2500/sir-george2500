@@ -8,11 +8,5 @@
 - I am a Believer of God love(devotee of Jesus)
 - Lover of Vim (Neovim) best editor in the World really to die on this one
 - I love C admire Python and tolerate JS mostly typescript
-- 🌱 I’m currently mastering **RUST** and **GO** by building Tough Projects
-<img src="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+- 🌱 I’m currently mastering **RUST** and **GO** by building Challenging Projects
 
-<picture>
-<a href="https://github-readme-stats-two-eta-17.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-george2500&layout=pie" alt="Top Langs">
-</a>
-</picture>
