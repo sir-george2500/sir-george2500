@@ -8,5 +8,5 @@
 - I am a Believer of God love(devotee of Jesus)
 - Lover of Vim (Neovim) best editor in the World really to die on this one
 - I love C admire Python and tolerate JS mostly typescript
-- 🌱 I’m currently mastering **RUST** and **GO** by building Challenging Projects
+- 🌱 I’m currently mastering **RUST** and **GO** by building  Projects
 
