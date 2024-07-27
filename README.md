@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George S Mulbah II</h1>
 <h3 align="center">Commonly Known as Sir-George</h3>
-<h3 align="center">I am a Sotware Engineer and Mathematician</h3>
+<h3 align="center">I am Science hobby from Liberia my insterest current is **CS* , **Mathematics** and **Data Science**</h3>
 <h3 align="center">Improving by 1% every day</h3>
 <h3 align="center">Growth mindset</h3>
 
