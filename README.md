@@ -4,11 +4,9 @@
 <h4>Improving by 1% every day</h4>
 <h5>Growth mindset</h5>
 
-
 - I am a Believer of God love(devotee of Jesus)
 - Love Competitive Programming and Problem Solving 
 - Lover of Vim (Neovim) best editor in the World really to die on this one
 - I love C , Golang admire Python and tolerate JS mostly typescript
 - 🌱 I’m currently mastering **RUST** by building  Projects
-  
-
+- 📝 Check out my blog: [The Clever Engineer NoteBook](https://cleverengineer.substack.com/)
