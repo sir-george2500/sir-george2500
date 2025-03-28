@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm George S Mulbah II | I am a Rusticians 🦀</h1>
+<h1>Hi 👋, I'm George S Mulbah II | I am a Rustician 🦀</h1>
 <p align="center">
   <img src="https://github.com/sir-george2500/custome_images/blob/main/images/rust.png" style="width: 200px; height: auto;" alt="Rust Image">
 </p>
