@@ -11,4 +11,6 @@
 - 🌱 I’m currently mastering **RUST** by building projects
 - 📝 Check out my blog: [The Clever Engineer Notebook](https://cleverengineer.substack.com/)
 
-![Rust Image](https://github.com/sir-george2500/custome_images/blob/main/images/rust_el.jpeg)
+<p align="center">
+  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/rust_el.jpeg" width="300" height="200" alt="Rust Image">
+</p>
