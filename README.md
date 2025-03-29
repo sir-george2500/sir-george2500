@@ -11,7 +11,7 @@
 - Love Competitive Programming and Problem Solving 
 - Lover of Vim (Neovim) - best editor in the world, really to die on this one
 - I love C, Golang, admire Python, and tolerate JS (mostly TypeScript)
-- 🌱 I’m currently mastering **RUST** by building projects
+- 🌱 I’m currently mastering **Rust** by building projects
 - 📝 Check out my blog: [The Clever Engineer Notebook](https://cleverengineer.substack.com/)
 
 
