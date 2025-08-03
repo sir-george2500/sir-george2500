@@ -3,7 +3,7 @@
   <img src="https://github.com/sir-george2500/custome_images/blob/main/images/rust.png" style="width: 200px; height: auto;" alt="Rust Image">
 </p>
 <h3>Commonly Known as Sir-George to Mathematicians and delta-x to CS Engineers</h3>
-<h4>I am a Science hobbyist from Liberia my interests currently are CS,Rust mastery, Mathematics, and Data Science</h4>
+<h4>I am a Science hobbyist from Liberia my interests currently are CS,Rust and Java mastery, Mathematics, and Data Science</h4>
 <h4>Improving by 1% every day</h4>
 <h5>Growth mindset</h5>
 
