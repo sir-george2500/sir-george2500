@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Rustacean 🦀 | Software Engineer | Competitive Programmer</strong><br>
+  <strong>Rustacean 🦀 | SWE Engineer |ML Engineer | Competitive Programmer</strong><br>
   <em>Sir-George to Mathematicians • delta-x to CS Engineers</em>
 </p>
 
