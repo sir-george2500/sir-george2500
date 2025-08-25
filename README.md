@@ -72,7 +72,7 @@ X-Pay is revolutionizing payments across Africa by connecting local and global p
 
 ### **Core Technologies**
 - **Frontend:** React, React Native, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python, Django, Flask
+- **Backend:** Node.js, Express.js, Python, Django, Flask, Rust Rocket, Java SprintBoot
 - **Mobile:** React Native, Flutter
 - **Cloud & DevOps:** AWS, Docker, Google Cloud Platform
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis
