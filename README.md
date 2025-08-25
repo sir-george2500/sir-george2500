@@ -21,7 +21,7 @@ I'm a passionate software engineer with a growth mindset, continuously improving
 - 🎯 Precision in problem-solving
 
 **Other Passions:**
-- 🏆 Competitive Programming and Algorithm Design and System Design 
+- 🏆 Competitive Programming with Java,Algorithm Design and System Design 
 - ⌨️ Vim/Neovim enthusiast (best editor, willing to defend this!)
 - 🌱 Currently mastering **Rust** and **Java** through hands-on projects
 
