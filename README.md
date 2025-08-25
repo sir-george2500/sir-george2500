@@ -20,20 +20,8 @@ I'm a passionate software engineer with a growth mindset, continuously improving
 - 🧠 Growth mindset and continuous learning
 - 🎯 Precision in problem-solving
 
-## 🛠️ Technologies & Interests
-
-**Languages I Love:**
-- 🦀 **Rust** (primary focus)
-- ☕ **Java**
-- ⚡ **C**
-- 🐹 **Go**
-
-**Languages I Work With:**
-- 🐍 Python (admire)
-- 📘 TypeScript (tolerate over vanilla JS)
-
 **Other Passions:**
-- 🏆 Competitive Programming and Algorithm Design
+- 🏆 Competitive Programming and Algorithm Design and System Design 
 - ⌨️ Vim/Neovim enthusiast (best editor, willing to defend this!)
 - 🌱 Currently mastering **Rust** and **Java** through hands-on projects
 
@@ -72,7 +60,7 @@ X-Pay is revolutionizing payments across Africa by connecting local and global p
 
 ### **Core Technologies**
 - **Frontend:** React, React Native, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python, Django, Flask, Rust Rocket, Java SprintBoot
+- **Backend:** Node.js, Express.js, Python, Django, Flask, Rust Rocket, Java SprintBoot , C
 - **Mobile:** React Native, Flutter
 - **Cloud & DevOps:** AWS, Docker, Google Cloud Platform
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis
