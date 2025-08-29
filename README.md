@@ -33,7 +33,7 @@ I'm a passionate software engineer with a growth mindset, continuously improving
 ### 🔬 Current Focus
 - **Smart Irrigation System** - Leading R&D for sustainable farming solutions in Africa (Currently in prototype development)
 - **DevOps & Cloud Technologies** - Advancing skills in AWS and Docker
-- **UX/UI Design** - Pursuing Google UX/UI Design certification
+- **UX/UI Design** - Figma 
 
 ## 💼 Featured Projects
 
