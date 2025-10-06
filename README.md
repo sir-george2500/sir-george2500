@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/master_time.png" style="width: 850px; height: 230px;" alt="Rust Programming Language">
+  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/master.png" style="width: 850px; height: 230px;" alt="Rust Programming Language">
 </p>
 
 <p align="center">
