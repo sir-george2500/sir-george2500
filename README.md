@@ -1,7 +1,7 @@
 # Hi 👋, I'm George S Mulbah II
 
 <p align="center">
-  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/github-header-banner.png" style="width: 200px; height: auto;" alt="Rust Programming Language">
+  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/github-header-banner.png" style="width: 850px; height: 230px;" alt="Rust Programming Language">
 </p>
 
 <p align="center">
