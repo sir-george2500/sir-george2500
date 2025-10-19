@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with a growth mindset, continuously improving by 1% every day. I believe in the power of problem-solving through code and the beauty of well-crafted algorithms.
+I'm a passionate software engineer with a growth mindset, continuously improving by 1% every day | trying to become a code machine. I believe in the power of problem-solving through code and the beauty of well-crafted algorithms.
 
 **Core Values:**
 - ✨ Believer in God's love (devotee of Jesus)
