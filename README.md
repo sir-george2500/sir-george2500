@@ -26,13 +26,6 @@ I'm a passionate software engineer with a growth mindset, continuously improving
 ## 📝 Content & Community
 
 - 📖 Check out my blog: [The Clever Engineer Notebook](https://cleverengineer.substack.com/)
-
-
-### 🔬 Current Focus
-- **Smart Irrigation System** - Leading R&D for sustainable farming solutions in Africa (Currently in prototype development)
-- **DevOps & Cloud Technologies** - Advancing skills in AWS and Docker
-- **UX/UI Design** - Figma 
-
 ## 💼 Featured Projects
 
 ### 🎫 [Tick8Plus](https://tick8plus.com) - Event Ticketing System
@@ -50,33 +43,6 @@ X-Pay is revolutionizing payments across Africa by connecting local and global p
 - **Local & International Money Transfer** capabilities
 - **Multi-Currency Support** across African markets
 
-## 🛠️ Technical Expertise
-
-### **Core Technologies**
-- **Frontend:** React, React Native, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python, Django, Flask, Rust Rocket, Java SprintBoot , C , Microservices Arhitecture(distributed System)
-- **Mobile:** React Native, Flutter
-- **Cloud & DevOps:** AWS, Docker, Google Cloud Platform , Jekin, Github Action, Kubernetics
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
-- **Payment Integration:** Stripe, PayPal, Mobile Money APIs
-- **Hardware:** Arduino, IoT Sensors, NFC Technology
-
-### **Specializations**
-- Mobile Application Development
-- Full-Stack Web Development
-- Payment Systems & Fintech Solutions
-- Cloud Architecture & Deployment
-- IoT & Hardware Integration
-- DevOps & CI/CD Pipelines
-- Agricultural Technology Solutions
-
-## 🌍 Impact & Vision
-
-My projects focus on solving real-world challenges across Africa:
-- **Agricultural Innovation**: Sustainable farming through smart irrigation
-- **Event Technology**: Seamless event experiences with modern payment solutions
-- **Financial Inclusion**: Revolutionary payment platforms connecting Africa to global markets
-- **Technology Access**: Building solutions that work across diverse infrastructure conditions
 
 ---
 
