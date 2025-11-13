@@ -35,10 +35,6 @@ I'm a passionate software engineer with a growth mindset, continuously improving
 
 ## 💼 Featured Projects
 
-### 🌱 [Sahara Sprout](https://saharasprout.com) - Smart Irrigation System
-*Prototype Development Phase*
-Research and development project focused on creating sustainable farming solutions for African agriculture through intelligent water management systems. Revolutionizing agricultural practices with IoT-enabled irrigation technology.
-
 ### 🎫 [Tick8Plus](https://tick8plus.com) - Event Ticketing System
 *Seeking Collaboration*
 Comprehensive event management platform integrating NFC technology for seamless event payments, ticketing, and attendee management. Streamlining the event experience from purchase to entry.
