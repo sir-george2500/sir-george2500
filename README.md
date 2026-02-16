@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-I am the Guy you call when you have hard and boring problem that no on your team want to solve or take up | code machine 
+I am the Guy you call; when you have hard and boring problem that no one on your team want to solve or take up | code machine 
 **Core Values:**
 - ✨ Believer in God's love (devotee of Jesus)
 - 🧠 Growth mindset and continuous learning
-- 🎯 Precision in problem-solving
+- 🎯 Lover of Wisdom and resilence
 
 **Other Passions:**
 - 🏆 Competitive Programming with Java,Algorithm Design and System Design 
