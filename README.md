@@ -44,13 +44,3 @@ X-Pay is revolutionizing payments across Africa by connecting local and global p
 
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sir-george2500&show_icons=true&theme=radical&hide_border=true" alt="George's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-george2500&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=sir-george2500&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
