@@ -11,7 +11,8 @@
 
 ## 🚀 About Me
 
-I am the Guy you call; when you have hard and boring problem that no one on your team want to solve or take up | code machine 
+I am the Guy you call; when you have hard and boring problem that no one on your team want to solve or take up | **Problem are a chances to Learn not Escaped** | **Collaborator** | **Learner**
+
 **Core Values:**
 - ✨ Believer in God's love (devotee of Jesus)
 - 🧠 Growth mindset and continuous learning
