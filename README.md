@@ -26,7 +26,7 @@ I am the Guy you call; when you have hard and boring problem that no one on your
 
 - 📖 Check out my blog: [The Clever Engineer Notebook](https://cleverengineer.substack.com/)
 
-## 💼 I have lots of Contribution but I love these three Project not my best but I love them
+## 💼 Confuse about which project to show here but here are three Projects I contributed to heavy.
 
 ### 🛡️ [My-Watchman™ 3.0](https://www.my-watchman.com) - Distributed Safety Platform
 
