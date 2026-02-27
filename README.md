@@ -32,13 +32,8 @@ I am the Guy you call; when you have hard and boring problem that no one on your
 
 My-Watchman™ is Africa's most advanced emergency response ecosystem — connecting citizens, emergency responders, and dispatch centers in real time. Operating successfully in Liberia since 2021, now supercharged with AI 3.0 and expanding across Africa. **2.4M+ lives protected daily.**
 
-**Three Integrated Apps:**
-- **Citizen App** — One-tap emergency SOS, journey tracking, and welfare check-ins
-- **Responder App** — Real-time assignments, AI-powered navigation, and incident reporting for first responders
-- **Dispatch Center** — Centralized command dashboard for city-wide emergency coordination
-- **Contribution**  : help build 16 core microservices
-
 **Impact:**
+- help build 16 Core high performance Microservices
 - < 10 min average emergency response time
 - 98.7% successful emergency resolution rate
 - 5,000+ verified emergency responders across 5 African countries
