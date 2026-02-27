@@ -36,6 +36,7 @@ My-Watchman™ is Africa's most advanced emergency response ecosystem — connec
 - **Citizen App** — One-tap emergency SOS, journey tracking, and welfare check-ins
 - **Responder App** — Real-time assignments, AI-powered navigation, and incident reporting for first responders
 - **Dispatch Center** — Centralized command dashboard for city-wide emergency coordination
+- **Contribution**  : help build 16 core microservices
 
 **Impact:**
 - < 10 min average emergency response time
