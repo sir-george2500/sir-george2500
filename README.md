@@ -15,11 +15,11 @@ I am the Guy you call; when you have hard and boring problem that no one on your
 **Core Values:**
 - ✨ Believer in God's love (devotee of Jesus)
 - 🧠 Growth mindset and continuous learning
-- 🎯 Lover of Wisdom and resilence
+- 🎯 Lover of Wisdom and resilence - 
 **I have built some projects that you can check out here: [Portfolio](https://mulbah-portfolio.vercel.app/)**
 
 **Other Passions:**
-- 🏆 Competitive Programming with Java, Algorithm Design and System Design
+- 🏆 Competitive Programming with Java and C++, Algorithm Design and System Design
 - ⌨️ Vim/Neovim enthusiast (best editor, willing to die on that hill!)
 - 🌱 Currently mastering **Rust** and **Java** through hands-on projects
 
