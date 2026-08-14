@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/mastery.png" style="width: 850px; height: 230px;" alt="Mastery" />
+  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/mastery.png" style="width: 850px; height: 230px;" alt="Rust Programming Language">
 </p>
-
 <p align="center">
-  <strong>Senior Software Engineer • Mathman • Competitive Programmer</strong><br>
+  <strong>Rustacean 🦀 | SWE Engineer |ML Engineer | Competitive Programmer</strong><br>
   <em>Sir-George to Mathematicians • delta-x to CS Engineers</em>
 </p>
 
