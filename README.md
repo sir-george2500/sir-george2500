@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sir-george2500/custome_images/blob/main/images/mastery.png" style="width: 850px; height: 230px;" alt="Rust Programming Language">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHMBM5bUxOO9Q/profile-displaybackgroundimage-shrink_350_1400/B56Z_2dywhIsAU-/0/1786546433312?e=1793232000&v=beta&t=tUD-m5mKvSz866sMqTKoASXwgqcFbcmNeTEFzm_j8jw" style="width: 850px; height: 230px;" alt="Rust Programming Language">
 </p>
 <p align="center">
   <strong>Rustacean 🦀 | SWE Engineer |ML Engineer | Competitive Programmer</strong><br>
